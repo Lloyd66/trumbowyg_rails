@@ -1,29 +1,29 @@
 /* ===========================================================
- * pt.js
- * Portuguese translation for Trumbowyg
+ * pt_br.js
+ * Portuguese Brazilian translation for Trumbowyg
  * http://alex-d.github.com/Trumbowyg
  * ===========================================================
- * Author : Ramiro Varandas Jr (ramirovjr)
- *          Twitter : @ramirovjnr
- *          Website : about.me/ramirovjnr
- *          Github : https://github.com/ramirovjr
+ * Author : Alex Gotardi (alexgotardi)
+ *          Twitter : @alexgotardi
+ *          Github : https://github.com/alexgotardi
  */
 
-jQuery.trumbowyg.langs.pt = {
+// jshint camelcase:false
+jQuery.trumbowyg.langs.pt_br = {
     viewHTML: 'Ver HTML',
     
     undo: 'Desfazer',
     redo: 'Refazer',
 
     formatting: 'Formatar',
-    p: 'Paragráfo',
+    p: 'Parágrafo',
     blockquote: 'Citação',
     code: 'Código',
     header: 'Título',
 
     bold: 'Negrito',
     italic: 'Itálico',
-    strikethrough: 'Suprimir',
+    strikethrough: 'Tachado',
     underline: 'Sublinhado',
 
     strong: 'Negrito',
